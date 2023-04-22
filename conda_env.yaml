@@ -1,0 +1,14 @@
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.9
+- jupyterlab
+- sphinx
+- sphinx-remove-toctrees
+- sphinx-copybutton
+- myst-nb
+- pip
+- pip:
+  - sphinxawesome-theme
+
