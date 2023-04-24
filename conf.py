@@ -5,12 +5,12 @@
 
 import os
 import sys
-__version__='0.0.0'
+__version__='2023.1'
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Taller de introducción a Linux'
+project = 'UIBCDF - Talleres'
 copyright = '2023, UIBCDF Lab at the Mexico City Childrens Hospital Federico Gomez and authors.'
 author = 'Liliana M. Moreno Vargas & Diego Prada Gracia'
 
