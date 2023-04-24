@@ -5,9 +5,7 @@ dependencies:
 - python=3.9
 - jupyterlab
 - sphinx
-- sphinx_rtd_theme
+- sphinx-book-theme
 - sphinxcontrib-bibtex
-- sphinx-remove-toctrees
 - sphinx-copybutton
 - myst-nb
-

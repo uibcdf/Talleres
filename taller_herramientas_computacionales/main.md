@@ -1,3 +1,0 @@
-# Herramientas Computacionales
-
-XXX

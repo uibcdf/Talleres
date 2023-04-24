@@ -1,18 +1,34 @@
-# Talleres
+# Taller de introducción al uso y administración de sistemas operativos tipo Linux
 
-YYY
+Este taller bla bla bla..
 
 ```{eval-rst}
 
 .. toctree::
-   :name: laboratorio_computacional
-   :caption: Técnicas Computacionales
+   :name: programa
+   :caption: Programa
    :maxdepth: 2
    :hidden:
 
-   taller_herramientas_computacionales/main.md
-   taller_Linux/main.md
-   taller_Python/main.md
-   taller_data_science/main.md
-   taller_libreria_Python/main.md
+   semana_1/contenido.md
+   semana_2/README.md
+   semana_3/README.md
+   semana_4/README.md
+   semana_5/README.md
+   semana_6/README.md
+   semana_7/README.md
+   semana_8/README.md
+   semana_9/README.md
+   semana_10/README.md
+
+.. toctree::
+   :name: material_suplementario
+   :caption: Material Suplementario
+   :maxdepth: 2
+   :hidden:
+
+   material_suplementario/README.md
+
 ```
+
+

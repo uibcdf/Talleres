@@ -1,3 +1,0 @@
-# Librería Python
-
-XXX
