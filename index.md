@@ -1,13 +1,17 @@
 # Talleres de Técnicas Computacionales Básicas para el Laboratorio de Investigación
-
+<br/>
 Aquí encontrarás información de los talleres impartidos por [los investigadores miembros de la UIBCDF](quienes_somos.md)
 sobre Técnicas Computacionales Básicas para el Laboratorio de Investigación Científica.
 
 Estos talleres:
-- son gratuitos y de acceso libre para cualquier persona.
+- son **gratuitos** y de **acceso libre** para **cualquier persona**.
 - se repiten tres veces al año.
 - sus materiales tienen licencia Creative Commons (puedes usarlos, distribuirlos, copiarlos y
   modificarlos libremente).
+- son impartidos en clases por video conferencia.
+- contienen retos a resolver por los participantes con asesoría continua por
+  parte de los responsables.
+- quedan grabados y divulgados públicamente en el canal de YouTube de la UIBCDF.
 
 Para registrarse en cualquiera de ellos sigue las instrucciones que encontrarás en la documentación
 de cada taller.
@@ -16,6 +20,7 @@ de cada taller.
 La realización de estos talleres no implica la obtención de una constancia de participación.
 ```
 
+------
 
 ## Taller de Herramientas Computacionales
 
@@ -28,6 +33,7 @@ Más información [aquí](taller_herramientas.md)
 Este taller se impartirá desde el siguiente ciclo 2023.3, tentativamente desde el 4 de septiembre de 2023.
 ```
  
+------
 
 ## Taller de Linux
 
@@ -40,6 +46,7 @@ Más información [aquí](taller_linux.md)
 El siguiente ciclo 2023.2 comenzará el próximo 8 de mayo!    
 ```
  
+------
 
 ## Taller de Python
 
@@ -52,6 +59,7 @@ Más información [aquí](taller_python.md)
 El siguiente ciclo 2023.2 comenzará el próximo 8 de mayo!    
 ```
  
+------
 
 ## Taller de Ciencia de Datos
 
@@ -68,6 +76,7 @@ Más información [aquí](taller_ciencia_datos.md)
 El siguiente ciclo 2023.2 comenzará el próximo 12 de mayo!    
 ```
  
+------
 
 ## Taller de Implementación, Testeo, Documentación y Distribución de una Libreria Científica en Python
 
