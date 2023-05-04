@@ -1,3 +1,0 @@
-# Taller Python
-
-fdfd

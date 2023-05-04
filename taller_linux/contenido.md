@@ -1,3 +1,0 @@
-# Taller Linux
-
-csdcdmskd

@@ -1,3 +1,0 @@
-# Taller Herramientas Computacionales
-
-nksdcnasdc

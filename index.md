@@ -1,69 +1,95 @@
-# Talleres de técnicas computacionales básicas para el laboratorio de investigación
+# Talleres de Técnicas Computacionales Básicas para el Laboratorio de Investigación
 
-Talleres impartidos por la UIBCDF de Técnicas Computacionales Básicas para el Laboratorio de Investigación Científica.
-Los talleres se repetiran tres veces al año.
+Aquí encontrarás información de los talleres impartidos por [los investigadores miembros de la UIBCDF](quienes_somos.md)
+sobre Técnicas Computacionales Básicas para el Laboratorio de Investigación Científica.
+
+Estos talleres:
+- son gratuitos y de acceso libre para cualquier persona.
+- se repiten tres veces al año.
+- sus materiales tienen licencia Creative Commons (puedes usarlos, distribuirlos, copiarlos y
+  modificarlos libremente).
+
+Para registrarse en cualquiera de ellos sigue las instrucciones que encontrarás en la documentación
+de cada taller.
+
+```{warning} 
+La realización de estos talleres no implica la obtención de una constancia de participación.
+```
 
 
 ## Taller de Herramientas Computacionales
 
-sdvmdasmvsdf asdf lasdkfj asdflkjasdlfj
+Este taller es una introducción a varias de las herramientas básicas para el trabajo en un
+laboratorio computacional de investigación que hace Open Science: Git, GitHub, Conda, Jupyter Lab...
 
-Más información [aquí](../taller_herramientas/contenido.md)
+Más información [aquí](taller_herramientas.md)
 
 ```{important} 
-El siguiente curso comenzará el próximo 5 de mayo!    
-Recuerda que tiene una duración de 10 semanas.
+Este taller se impartirá desde el siguiente ciclo 2023.3, tentativamente desde el 4 de septiembre de 2023.
 ```
  
 
 ## Taller de Linux
 
-sdvmdasmvsdf asdf lasdkfj asdflkjasdlfj
+En este taller indroduciremos las nociones básicas de uso y administración de un sistema
+operativo GNU/Linux. Este taller es útil también para los usuarios de MacOs.
 
-Más información [aquí](../taller_linux/contenido.md)
+Más información [aquí](taller_linux.md)
 
 ```{important} 
-El siguiente curso comenzará el próximo 5 de mayo!    
-Recuerda que tiene una duración de 10 semanas.
+El siguiente ciclo 2023.2 comenzará el próximo 8 de mayo!    
 ```
  
 
 ## Taller de Python
 
-sdvmdasmvsdf asdf lasdkfj asdflkjasdlfj
+Este taller está dirigido a todo aquel que quiere comenzar a programar en Python: desde lo más
+elemental hasta la resolución de un problema científico sencillo de interés general. 
 
-Más información [aquí](../taller_python/contenido.md)
+Más información [aquí](taller_python.md)
 
 ```{important} 
-El siguiente curso comenzará el próximo 5 de mayo!    
-Recuerda que tiene una duración de 10 semanas.
+El siguiente ciclo 2023.2 comenzará el próximo 8 de mayo!    
 ```
  
 
 ## Taller de Ciencia de Datos
 
-sdvmdasmvsdf asdf lasdkfj asdflkjasdlfj
+En este taller introductorio comenzaremos a usar el lenguaje de programación Python para la
+recolección, almacenamiento, procesamiento, análisis y visualización de datos. El participante
+tendrá un primer acercamiento a conceptos como algoritmos de análisis multidimensional, algoritmos
+de clustering, teoría de grafos, etc., empleando librerías de código abierto útiles para estos
+propósitos como: numpy, matplotlib, seaborn, pyplot, pandas, scipy, scikit-learn, networkx, y
+otras.
 
-Más información [aquí](../taller_ciencia_datos/contenido.md)
+Más información [aquí](taller_ciencia_datos.md)
 
 ```{important} 
-El siguiente curso comenzará el próximo 5 de mayo!    
-Recuerda que tiene una duración de 10 semanas.
+El siguiente ciclo 2023.2 comenzará el próximo 12 de mayo!    
 ```
  
 
-## Taller Libreria Python
+## Taller de Implementación, Testeo, Documentación y Distribución de una Libreria Científica en Python
 
-sdvmdasmvsdf asdf lasdkfj asdflkjasdlfj
+Si tienes conocimientos de programación en Python y estás pensando en desarrollar tu propia
+librería de cómputo científico, este es tu taller! Aprenderás a estructurar tu librería, usar
+herramientas de desarrollo de código libre en colaboración, elegir la licencia adecuada, a
+testearla automáticamente, a documentarla en una web pública y a distribuirla en tu propio canal de conda.
 
-Más información [aquí](../taller_libreria_python/contenido.md)
+Más información [aquí](taller_libreria_python.md)
 
 ```{important} 
-El siguiente curso comenzará el próximo 5 de mayo!    
-Recuerda que tiene una duración de 10 semanas.
+El siguiente ciclo 2023.2 comenzará el próximo 12 de mayo!    
 ```
  
 ```{eval-rst}
+
+.. toctree::
+   :name: quienes_somos
+   :maxdepth: 2
+   :hidden:
+
+   quienes_somos.md
 
 .. toctree::
    :name: talleres
@@ -71,12 +97,11 @@ Recuerda que tiene una duración de 10 semanas.
    :maxdepth: 2
    :hidden:
 
-   taller_herramientas/contenido.md
-   taller_linux/contenido.md
-   taller_python/contenido.md
-   taller_ciencia_datos/contenido.md
-   taller_libreria_python/contenido.md
+   taller_herramientas.md
+   taller_linux.md
+   taller_python.md
+   taller_ciencia_datos.md
+   taller_libreria_python.md
 
 ```
-
 
