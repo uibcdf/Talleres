@@ -36,17 +36,14 @@ jobs:
           environment-file: conda_env_dev.yaml
           environment-name: docs
           channels: uibcdf, conda-forge, defaults
-
           extra-specs: |
             python=="3.10"
 
-      - name: Env check
-
-        - name: Info conda
-          shell: bash -l {0}
-          run: |
-            micromamba info
-            micromamba list
+      - name: Info conda
+        shell: bash -l {0}
+        run: |
+          micromamba info
+          micromamba list
 
       - name: Running the Sphinx to gh-pages Action
         uses: uibcdf/action-sphinx-docs-to-gh-pages@v1.1.0
