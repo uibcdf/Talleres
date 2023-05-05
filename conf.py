@@ -11,8 +11,13 @@ __version__='2023.1'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'UIBCDF - Talleres'
-copyright = '2023, UIBCDF Lab at the Mexico City Childrens Hospital Federico Gomez and authors.'
-author = 'Liliana M. Moreno Vargas & Diego Prada Gracia. <a href="mailto:uibcdf@gmail.com">Contáctanos</a>.'
+copyright = ''
+author = """
+Liliana M. Moreno Vargas & Diego Prada Gracia | <a href= "mailto:uibcdf@gmail.com">Contáctanos</a>.
+<br>
+<a href="https://uibcdf.org">Unidad de Investigación en Biología Computacional y Diseño de Fármacos</a> del <a href=
+"http://himfg.com.mx">Hospital Infantil de México Federico Gómez.</a>
+"""
 
 version = __version__.split('+')[0]
 release = __version__
@@ -100,7 +105,6 @@ html_theme = 'sphinx_book_theme'
 #html_theme = 'pydata_sphinx_theme'
 html_theme_options = {
             "logo": {"alt_text": "UIBCDF-Talleres"},
-
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
