@@ -2,7 +2,9 @@
 
 <br/>
 
-Aquí encontrarás información de los talleres impartidos por [los investigadores miembros de la UIBCDF](quienes\_somos.md)
+Aquí encontrarás información de los talleres impartidos por [los investigadores miembros de la 
+Unidad de Investigación en Biología Computacional y Diseño de Fármacos (UIBCFD) del Instituto Nacional de
+Salud - Hospital Infantil de México Federico Gómez](quienes\_somos.md)
 sobre Técnicas Computacionales Básicas para el Laboratorio de Investigación Científica.
 
 Estos talleres:

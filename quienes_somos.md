@@ -2,7 +2,7 @@
 
 Estos talleres están estructurados, desarrollados e impartidos por los miembros de la [Unidad de
 Investigación en Biología Computacional y Diseño de Fármacos (UIBCDF)](https://uibcdf.org) del [Instituto Nacional de
-Salud Hospital Infantil de México Federico Gómez](http://himfg.com.mx):
+Salud - Hospital Infantil de México Federico Gómez](http://himfg.com.mx):
 
 - Dra. Liliana M. Moreno Vargas
 - Dr. Diego Prada Gracia
