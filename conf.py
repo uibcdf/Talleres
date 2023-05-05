@@ -107,7 +107,7 @@ html_theme_options = {
 html_theme_path = []
 
 html_static_path = ['_static']
-html_logo = "_static/LogoUIBCDF_vertical.png"
+html_logo = "_static/LogoUIBCDF_vectorizado.svg"
 
 favicons = ["favicon-16x16.png",
             "favicon-124x124.png",
