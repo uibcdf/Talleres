@@ -17,6 +17,6 @@ Para registrate a este taller rellena [este formulario](https://forms.gle/2dEKEv
 
 ```{important} 
 El siguiente ciclo 2023.2 comenzará el próximo 8 de mayo! 
-Las sesiones de videoconferencia se llevarán acabo los lunes de las 4:30 pm a las 6:00 pm (hora de Ciudad de México).
+Las sesiones de videoconferencia se llevarán a cabo los lunes de las 4:30 pm a las 6:00 pm (hora de Ciudad de México).
 ```
 
