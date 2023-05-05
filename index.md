@@ -10,12 +10,14 @@ sobre Técnicas Computacionales Básicas para el Laboratorio de Investigación C
 Estos talleres:
 - son **gratuitos** y de **acceso libre** para **cualquier persona**.
 - se repiten tres veces al año.
-- sus materiales tienen licencia Creative Commons (puedes usarlos, distribuirlos, copiarlos y
-  modificarlos libremente).
 - son impartidos en clases por video conferencia.
-- contienen retos a resolver por los participantes con asesoría continua por
-  parte de los responsables.
+- contienen retos a resolver por los participantes con asesoría continua por parte de los
+  responsables.
 - quedan grabados y divulgados públicamente en el canal de YouTube de la UIBCDF.
+- sus materiales tienen licencia internacional [Creative Commons BY-NC-SA
+  4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES). Puedes usarlos,
+distribuirlos, copiarlos y modificarlos libremente, [respetando las condiciones de la
+licencia](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES).
 
 Para registrarse en cualquiera de ellos sigue las instrucciones que encontrarás en la documentación
 de cada taller.
