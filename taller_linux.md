@@ -16,5 +16,6 @@ Más información en [la web del taller](https://uibcdf.org/Taller-Linux).
 Para registrate a este taller rellena [este formulario](https://forms.gle/QEnmn3eJu6JK6Rrv7).
 
 ```{important} 
-El siguiente ciclo 2023.2 comenzará el próximo 8 de mayo! 
+El siguiente ciclo 2023.2 comenzará el próximo 8 de mayo!
+Sesiones de videoconferencia: lunes 15.00-16.30 (hora de Ciudad de México).
 ```

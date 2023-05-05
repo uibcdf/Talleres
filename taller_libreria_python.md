@@ -19,5 +19,6 @@ Para registrate a este taller rellena [este formulario](https://forms.gle/5qreuC
 
 ```{important} 
 El siguiente ciclo 2023.2 comenzará el próximo 12 de mayo! 
+Sesiones de videoconferencia: viernes 16.30-18.00 (hora de Ciudad de México).
 ```
 
