@@ -13,7 +13,7 @@ Estos talleres:
 - son impartidos en clases por video conferencia.
 - contienen retos a resolver por los participantes con asesoría continua por parte de los
   responsables.
-- quedan grabados y divulgados públicamente en el canal de YouTube de la UIBCDF.
+- quedan grabados y divulgados públicamente en [el canal de YouTube de la UIBCDF](https://www.youtube.com/@uibcdf).
 - sus materiales tienen licencia internacional [Creative Commons BY-NC-SA
   4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES). Puedes usarlos,
 distribuirlos, copiarlos y modificarlos libremente, [respetando las condiciones de la
