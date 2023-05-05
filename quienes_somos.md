@@ -1,4 +1,4 @@
-# Quienes somos
+# Quiénes somos
 
 Estos talleres están estructurados, desarrollados e impartidos por los miembros de la [Unidad de
 Investigación en Biología Computacional y Diseño de Fármacos (UIBCDF)](https://uibcdf.org) del [Instituto Nacional de
