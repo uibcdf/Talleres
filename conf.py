@@ -12,7 +12,7 @@ __version__='2023.1'
 
 project = 'UIBCDF - Talleres'
 copyright = '2023, UIBCDF Lab at the Mexico City Childrens Hospital Federico Gomez and authors.'
-author = 'Liliana M. Moreno Vargas & Diego Prada Gracia. <a href="mailto:uibcdf@gmail.com">Contact us</a>.'
+author = 'Liliana M. Moreno Vargas & Diego Prada Gracia. <a href="mailto:uibcdf@gmail.com">Contáctanos</a>.'
 
 version = __version__.split('+')[0]
 release = __version__
