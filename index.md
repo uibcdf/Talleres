@@ -1,17 +1,23 @@
 # Talleres de Técnicas Computacionales Básicas para el Laboratorio de Investigación
+
 <br/>
-Aquí encontrarás información de los talleres impartidos por [los investigadores miembros de la UIBCDF](quienes_somos.md)
+
+Aquí encontrarás información de los talleres impartidos por [los investigadores miembros de la 
+Unidad de Investigación en Biología Computacional y Diseño de Fármacos (UIBCFD) del Instituto Nacional de
+Salud - Hospital Infantil de México Federico Gómez](quienes\_somos.md)
 sobre Técnicas Computacionales Básicas para el Laboratorio de Investigación Científica.
 
 Estos talleres:
 - son **gratuitos** y de **acceso libre** para **cualquier persona**.
 - se repiten tres veces al año.
-- sus materiales tienen licencia Creative Commons (puedes usarlos, distribuirlos, copiarlos y
-  modificarlos libremente).
 - son impartidos en clases por video conferencia.
-- contienen retos a resolver por los participantes con asesoría continua por
-  parte de los responsables.
-- quedan grabados y divulgados públicamente en el canal de YouTube de la UIBCDF.
+- contienen retos a resolver por los participantes con asesoría continua por parte de los
+  responsables.
+- quedan grabados y divulgados públicamente en [el canal de YouTube de la UIBCDF](https://www.youtube.com/@uibcdf).
+- sus materiales tienen licencia internacional [Creative Commons BY-NC-SA
+  4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES). Puedes usarlos,
+distribuirlos, copiarlos y modificarlos libremente, [respetando las condiciones de la
+licencia](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES).
 
 Para registrarse en cualquiera de ellos sigue las instrucciones que encontrarás en la documentación
 de cada taller.
@@ -27,7 +33,7 @@ La realización de estos talleres no implica la obtención de una constancia de 
 Este taller es una introducción a varias de las herramientas básicas para el trabajo en un
 laboratorio computacional de investigación que hace Open Science: Git, GitHub, Conda, Jupyter Lab...
 
-Más información [aquí](taller_herramientas.md)
+Más información [aquí](taller_herramientas.md).
 
 ```{important} 
 Este taller se impartirá desde el siguiente ciclo 2023.3, tentativamente desde el 4 de septiembre de 2023.
@@ -40,7 +46,7 @@ Este taller se impartirá desde el siguiente ciclo 2023.3, tentativamente desde 
 En este taller indroduciremos las nociones básicas de uso y administración de un sistema
 operativo GNU/Linux. Este taller es útil también para los usuarios de MacOs.
 
-Más información [aquí](taller_linux.md)
+Más información [aquí](taller_linux.md).
 
 ```{important} 
 El siguiente ciclo 2023.2 comenzará el próximo 8 de mayo!    
@@ -53,7 +59,7 @@ El siguiente ciclo 2023.2 comenzará el próximo 8 de mayo!
 Este taller está dirigido a todo aquel que quiere comenzar a programar en Python: desde lo más
 elemental hasta la resolución de un problema científico sencillo de interés general. 
 
-Más información [aquí](taller_python.md)
+Más información [aquí](taller_python.md).
 
 ```{important} 
 El siguiente ciclo 2023.2 comenzará el próximo 8 de mayo!    
@@ -70,7 +76,7 @@ de clustering, teoría de grafos, etc., empleando librerías de código abierto 
 propósitos como: numpy, matplotlib, seaborn, pyplot, pandas, scipy, scikit-learn, networkx, y
 otras.
 
-Más información [aquí](taller_ciencia_datos.md)
+Más información [aquí](taller_ciencia_datos.md).
 
 ```{important} 
 El siguiente ciclo 2023.2 comenzará el próximo 12 de mayo!    
@@ -85,7 +91,7 @@ librería de cómputo científico, este es tu taller! Aprenderás a estructurar 
 herramientas de desarrollo de código libre en colaboración, elegir la licencia adecuada, a
 testearla automáticamente, a documentarla en una web pública y a distribuirla en tu propio canal de conda.
 
-Más información [aquí](taller_libreria_python.md)
+Más información [aquí](taller_libreria_python.md).
 
 ```{important} 
 El siguiente ciclo 2023.2 comenzará el próximo 12 de mayo!    

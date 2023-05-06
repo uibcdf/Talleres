@@ -13,12 +13,17 @@ preguntas a lo largo de la semana.
 
 Más información en [la web del taller](https://www.uibcdf.org/Taller-Libreria-Python).
 
+```{warning} 
+Para la realización de este taller es necesario contar con conocimientos de programación en Python.  
+Si no los tienes, te invitamos a participar del [Taller de Python](taller_python.md)
+```
+
 ## Registro
 
 Para registrate a este taller rellena [este formulario](https://forms.gle/5qreuC7kmxnmWj4WA).
 
 ```{important} 
 El siguiente ciclo 2023.2 comenzará el próximo 12 de mayo! 
-Sesiones de videoconferencia: viernes 16.30-18.00 (hora de Ciudad de México).
+Las sesiones de videoconferencia se llevarán a cabo los viernes de las 4:30 pm a las 6:00 pm (hora de Ciudad de México).
 ```
 
