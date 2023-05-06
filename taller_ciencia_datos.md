@@ -20,11 +20,16 @@ Para la realización de este taller es necesario contar con conocimientos de pro
 Si no los tienes, te invitamos a participar del [Taller de Python](taller_python.md)
 ```
 
-## Registro
-
-Para registrate a este taller rellena [este formulario](https://forms.gle/oaeh4GWsJTkMzHks8).
-
 ```{important} 
 La siguiente edición 2023.2 comenzará el próximo 12 de mayo!     
 Las sesiones de videoconferencia se llevarán a cabo los viernes de las 3:00 pm a las 4:30 pm (hora de Ciudad de México).
 ```
+
+## Registro
+
+Para registrate a este taller rellena [este formulario](https://forms.gle/oaeh4GWsJTkMzHks8).
+
+```{warning} 
+La realización de estos talleres no conlleva la obtención de una constancia de participación.
+```
+

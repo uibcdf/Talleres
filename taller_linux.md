@@ -11,11 +11,15 @@ preguntas a lo largo de la semana.
 
 Más información en [la web del taller](https://www.uibcdf.org/Taller-Linux).
 
+```{important} 
+La siguiente edición 2023.2 comenzará el próximo 8 de mayo!
+Las sesiones de videoconferencia se llevarán a cabo los lunes de las 3:00 pm a las 4:30 pm (hora de Ciudad de México).
+```
+
 ## Registro
 
 Para registrate a este taller rellena [este formulario](https://forms.gle/QEnmn3eJu6JK6Rrv7).
 
-```{important} 
-La siguiente edición 2023.2 comenzará el próximo 8 de mayo!
-Las sesiones de videoconferencia se llevarán a cabo los lunes de las 3:00 pm a las 4:30 pm (hora de Ciudad de México).
+```{warning} 
+La realización de estos talleres no conlleva la obtención de una constancia de participación.
 ```
