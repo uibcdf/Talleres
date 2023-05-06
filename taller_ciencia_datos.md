@@ -13,7 +13,7 @@ El taller tendrá una duración de 10 semanas. Cada semana se realizará una vid
 todos los participantes de 1 hora y media. Adicionalmente, los participantes tendrán que resolver retos y
 preguntas a lo largo de la semana.
 
-Más información en [la web del taller](https://uibcdf.org/Taller-Ciencia-Datos).
+Más información en [la web del taller](https://www.uibcdf.org/Taller-Ciencia-Datos).
 
 ```{warning} 
 Para la realización de este taller es necesario contar con conocimientos de programación en Python.  

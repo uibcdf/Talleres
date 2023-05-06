@@ -9,7 +9,7 @@ El taller tendrá una duración de 10 semanas. Cada semana se realizará una vid
 todos los participantes de 1 hora y media. Adicionalmente, los participantes tendrán que resolver retos y
 preguntas a lo largo de la semana.
 
-Más información en [la web del taller](https://uibcdf.org/Taller-Linux).
+Más información en [la web del taller](https://www.uibcdf.org/Taller-Linux).
 
 ## Registro
 

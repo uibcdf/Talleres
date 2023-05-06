@@ -9,7 +9,7 @@ laboratorio computacional de investigación que hace Open Science: Git, GitHub, 
 **Este taller está en construcción...**
 ```
 
-Más información en [la web del taller](https://uibcdf.org/Taller-Herramientas-Computacionales).
+Más información en [la web del taller](https://www.uibcdf.org/Taller-Herramientas-Computacionales).
 
 ## Registro
 
