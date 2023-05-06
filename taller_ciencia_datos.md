@@ -25,6 +25,6 @@ Si no los tienes, te invitamos a participar del [Taller de Python](taller_python
 Para registrate a este taller rellena [este formulario](https://forms.gle/oaeh4GWsJTkMzHks8).
 
 ```{important} 
-El siguiente ciclo 2023.2 comenzará el próximo 12 de mayo!     
+La siguiente edición 2023.2 comenzará el próximo 12 de mayo!     
 Las sesiones de videoconferencia se llevarán a cabo los viernes de las 3:00 pm a las 4:30 pm (hora de Ciudad de México).
 ```

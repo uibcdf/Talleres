@@ -16,5 +16,5 @@ Más información en [la web del taller](https://www.uibcdf.org/Taller-Herramien
 Para registrate a este taller rellena [este formulario](https://forms.gle/SryeUPxd19FUxd7NA).
 
 ```{important} 
-Este taller se impartirá desde el siguiente ciclo 2023.3, tentativamente desde el 4 de septiembre de 2023.
+Este taller se impartirá desde la edición 2023.3, tentativamente desde el 4 de septiembre de 2023.
 ```

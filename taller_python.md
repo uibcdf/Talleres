@@ -16,7 +16,7 @@ Más información en [la web del taller](https://www.uibcdf.org/Taller-Python).
 Para registrate a este taller rellena [este formulario](https://forms.gle/2dEKEvCtLukoXhEo7).
 
 ```{important} 
-El siguiente ciclo 2023.2 comenzará el próximo 8 de mayo! 
+La siguiente edición 2023.2 comenzará el próximo 8 de mayo! 
 Las sesiones de videoconferencia se llevarán a cabo los lunes de las 4:30 pm a las 6:00 pm (hora de Ciudad de México).
 ```
 
