@@ -5,7 +5,7 @@
 
 import os
 import sys
-__version__='2023.1'
+__version__='2023.2'
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information

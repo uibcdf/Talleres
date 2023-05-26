@@ -23,7 +23,7 @@ Para registrarse en cualquiera de ellos sigue las instrucciones que encontrarás
 de cada taller.
 
 ```{warning} 
-La realización de estos talleres no implica la obtención de una constancia de participación.
+La realización de estos talleres no conlleva la obtención de una constancia de participación.
 ```
 
 ------
@@ -36,7 +36,7 @@ laboratorio computacional de investigación que hace Open Science: Git, GitHub, 
 Más información [aquí](taller_herramientas.md).
 
 ```{important} 
-Este taller se impartirá desde el siguiente ciclo 2023.3, tentativamente desde el 4 de septiembre de 2023.
+Este taller se impartirá desde la edición 2023.3, tentativamente desde el 4 de septiembre de 2023.
 ```
  
 ------
@@ -49,7 +49,7 @@ operativo GNU/Linux. Este taller es útil también para los usuarios de MacOs.
 Más información [aquí](taller_linux.md).
 
 ```{important} 
-El siguiente ciclo 2023.2 comenzará el próximo 8 de mayo!    
+La siguiente edición 2023.2 comenzará el próximo 8 de mayo!    
 ```
  
 ------
@@ -62,7 +62,7 @@ elemental hasta la resolución de un problema científico sencillo de interés g
 Más información [aquí](taller_python.md).
 
 ```{important} 
-El siguiente ciclo 2023.2 comenzará el próximo 8 de mayo!    
+La siguiente edición 2023.2 comenzará el próximo 8 de mayo!    
 ```
  
 ------
@@ -94,7 +94,7 @@ testearla automáticamente, a documentarla en una web pública y a distribuirla 
 Más información [aquí](taller_libreria_python.md).
 
 ```{important} 
-El siguiente ciclo 2023.2 comenzará el próximo 12 de mayo!    
+La siguiente edición 2023.2 comenzará el próximo 12 de mayo!    
 ```
  
 ```{eval-rst}
