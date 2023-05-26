@@ -79,7 +79,7 @@ otras.
 Más información [aquí](taller_ciencia_datos.md).
 
 ```{important} 
-El siguiente ciclo 2023.2 comenzará el próximo 12 de mayo!    
+El siguiente ciclo será tentativamente en el año 2024.
 ```
  
 ------
